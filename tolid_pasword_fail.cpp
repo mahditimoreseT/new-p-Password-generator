@@ -50,7 +50,7 @@ int main() {
         cin >> again;
     } while (again == 'y' || again == 'Y');
     ////////////////////////////////////////////////////////////////////////////////////////////
-    //again==n bash h 
+    //again==n
     cout << "\nKhoroj az barname...\n";
     return 0;
 }
